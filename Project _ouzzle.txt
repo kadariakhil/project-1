@@ -33,6 +33,7 @@ namespace Project_puzzle1
                    Console.WriteLine("");
                 }
                 t += 1;
+                 Console.Write(ar[i]);
               
             }
 
